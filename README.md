@@ -75,7 +75,7 @@ After the training process, you will be getting the trained checkpoint at `locre
 
 ### Inference
 
-Here, we provide an example of one entry in R.PassKey of $\infty$Bench in `example.py`. To run the example, you can execute 
+Here, we provide an example of one entry in R.PassKey of InfiniteBench in `example.py`. To run the example, you can execute 
 ```bash
 python example.py --model_dir <model_dir> # for saved full checkpoint, or
 python example.py --model_dir <model_dir> --retaining_head_path <*.bin> # original model + saved retaining heads
@@ -104,4 +104,4 @@ Please cite our [paper](TODO) if you find our work valuable.
 
 ## Acknowledgement
 
-We acknowledge the discussion with Ruisi Cai@UT Austin, the author of LoCoCo, for the implementation of LoCoCo. We deeply thank Xinrong Zhang@Tsinghua for details in benchmarks, Weilin Zhao@Tsinghua for system implementation advices, Chenyang Song@Tsinghua for model sparsity, Shuo Wang@Tsinghua for long-context training recipe and Yuan Yao@NUS for future works on multimodal LLMs.
+We acknowledge the discussion with Ruisi Cai@UT Austin, the author of LoCoCo, for the implementation of LoCoCo. We deeply thank Xinrong Zhang@Tsinghua for details in InfiniteBench, Weilin Zhao@Tsinghua for system implementation advices, Chenyang Song@Tsinghua for model sparsity, Shuo Wang@Tsinghua for long-context training recipe and Yuan Yao@NUS for future works on multimodal LLMs.
