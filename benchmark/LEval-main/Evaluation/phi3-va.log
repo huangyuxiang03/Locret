@@ -1,0 +1,207 @@
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/exam_eval/Phi3-mini-128K-vanilla/codeU.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/exam_eval/Phi3-mini-128K-vanilla/codeU.pred.jsonl, there are 90 samples
+begin evaluating: exam
+ `15`. [6 15] | score=0
+====================
+the output [5 7 9].  [5 7 9] | score=1
+====================
+in th case 3. 3 | score=1
+====================
+of the array `a` which 3. [0 0 0] | score=0
+====================
+ assuming `operation1` returns the indices of [0 0 0 0] | score=0
+====================
+be 2. The final output 2. [[1 3][2 4]] | score=0
+====================
+ cannot be determined from the given [[1 2][3 4][4 4]] | score=0
+====================
+ [1 4 6]. 5 | score=0
+====================
+ : ``` 2 2 | score=1
+====================
+of th array 8. 6. Therefore the output 8.  [[1 2 3][4 5 6][7 8 9]] | score=0
+====================
+ : ``` 6 ``` [0 2 1 4 5 3] | score=0
+====================
+ `[5 2 9]`.  [2 1 3] | score=0
+====================
+ `[5 8 9]`. [1 3 9] | score=0
+====================
+ 36288. [1 5 45] | score=0
+====================
+ an error. [0 0 1 2 4 6] | score=0
+====================
+8 4 6 9]. 4 | score=1
+====================
+maximum value of the array b which 6. [2 0 4 1 3] | score=0
+====================
+ 3.  [1 3 6] | score=0
+====================
+ 8.  [1 1 2 3 4 5 5 6 9]  | score=0
+====================
+after step 3 : ``` [[3 4][5 6]] ``` [1 4 2 4 3 4] | score=0
+====================
+Therefore `final_output` `True`.  2 | score=0
+====================
+ 45. 0 | score=0
+====================
+ : ``` [[1][2][3][4][5]] ``` [1 2 3 4 5 1 2 3 4 5] | score=0
+====================
+final output `[2 [1 2 3 1 2 3]`. [1 1 2 2 3 3] | score=0
+====================
+ the 1D array 0 | score=0
+====================
+ 5.  4 | score=0
+====================
+ 18. 6 | score=0
+====================
+ : ```python True 48 | score=0
+====================
+ : ``` array([2. 4 | score=0
+====================
+ 8. 5 | score=0
+====================
+The final output [[1 3 7][1 3 8]]. [[7 1 8][2 9 3]] | score=0
+====================
+ : ``` [5 4 | score=0
+====================
+ [2 1]. 0 | score=0
+====================
+The final output [10 20 30]. [1 2 3] | score=0
+====================
+ `[1 2 3 4]`. [1 1 1 2 2 2 3 3 3 4 4 4 5 5 5] | score=0
+====================
+ based on the 411936 | score=0
+====================
+ an error message. [1 6 15] | score=0
+====================
+``` Note that the operations performed in steps 3 4 5 6 [0 1 2 3 4 5 6 7 8] | score=0
+====================
+ an empty array. [1 2 3] | score=0
+====================
+main diagonal. In th 3 | score=0
+====================
+`operation1` we cannot provide a definitive answer.  [1 3 5 7 9] | score=0
+====================
+: ``` array([[0 1][2 3]]) ``` [[0 0][0 0]] | score=0
+====================
+b will contain the elements `[20 30]`. [1 2 30 40] | score=0
+====================
+ a new array resulting from the operation performed [1 2 3 4 5 6] | score=0
+====================
+[[-2. -1. 0. 1 14 | score=0
+====================
+ : ``` [[0 0 0][0 1 0][0 0 1]] [[0 0 0][0 1 2][0 2 4]] | score=0
+====================
+ `[1 2]`. [1 2] | score=1
+====================
+ : ``` [[ True False][False False]] [[0 1][0 2][1 1]] | score=0
+====================
+ : ``` [2 4 6 8 10] [4 5 1 2 3] | score=0
+====================
+ : ``` [0 [3.5] | score=0
+====================
+ : ```python [3 5 8] ``` [2 7 17 19 15] | score=0
+====================
+ : ```python [5 32 | score=0
+====================
+ `[5 7 9]`. [-3 6 -3] | score=0
+====================
+ `4`.  [[4]] | score=0
+====================
+ cannot be determined -2 | score=0
+====================
+of a and the first operation. [32 64 96] | score=0
+====================
+ `[4 10]`. [[1][2]] | score=0
+====================
+ we need to [[0][1][2]] | score=0
+====================
+0]]. The final output [[0 0 0 0]].  [[ 0 0 0 0 14]] | score=0
+====================
+ : ``` array([[-1 -1 -1 -1 -1]) [-1 -1 -1 -1 -1] | score=1
+====================
+ : ``` array([[array([[1 2])][array([[1 2])]] [[1 0 0]] | score=0
+====================
+2 1 2])  [[5][10]] | score=0
+====================
+ [1 4 5 6 2 [90 99 90] | score=0
+====================
+ : ``` array([1 True | score=0
+====================
+ False. [[-7 14 -7][-7 14 -7][-7 14 -7]] | score=0
+====================
+string "input_string" The final output "NLP insteresting" the _n_l_p is c_ool1 | score=0
+====================
+ "NLP interesting" as *********.com | score=0
+====================
+ "NLP insteresting". -. .-.. .--. .. ... -.-. --- --- .-.. | score=0
+====================
+The output : ```json {"nlp": 1 "love": 1} ``` {"i": 1 "love": 1 "nlp": 1} | score=0
+====================
+counts the frequency of !dlroW | score=0
+====================
+ "NlP Is InTeREstInG."  NlP Is InTeReStInG. | score=1
+====================
+insteresting". The final output "NLP insteresting". i aam_a_n_l_per. *** | score=0
+====================
+output "NLP interesting"  NLP | score=1
+====================
+{"nlp": 1 "a": 1 "": 1 "cool": 1} ``` {"nlp": 1 "a": 1 "cool": 1} | score=0
+====================
+ "NLP insteresting". :$5n l9=l3!#< | score=0
+====================
+ "interESTIng.5_POS0 _POS1 NLP_POS2". P: 1 -> : 2 -> t: 2 -> e: 2 -> r: 1 -> .: 1 -> N: 1 -> g: 1 -> s: 2 -> i: 3 -> n: 2 -> L: 1 | score=0
+====================
+output "NLP interesting a3b4". 2032-12-01aaabbbb | score=0
+====================
+ "NLP insteresting 18230221100" NLP is interesting ! xxx-xxx-1100 T*m@gmail.Com7 | score=0
+====================
+ "3_LPN_POS0 10_InTeStInG_POS1". 3_PLN_POS0 2_sI_POS1 12_DOTgnItsErEtnI_POS2 6_tOnnAc_POS3 | score=0
+====================
+with detailed character information. The final output "NLP insteresting". Character: L Type: consonant Frequency: 15 | score=0
+====================
+ "NLP Interesting 1". Interesting.[1]1 | score=0
+====================
+you!" a = replace_substrings(Input_string) b = has_unique_characters(a) c = character_frequency(b) d = validate_string(c) e = custom_string_splitter(c) print(d+e) Output: "True || your your" False{"F": || 1 || "a": || 1 || "l": || 1 || "s": || 1 || "e": || 1} | score=0
+====================
+output should be "nlp! LOVE interesting". i EVOL !PLN | score=0
+====================
+= contains_substring("large") print(c+substr) Output: I love nlp! True  I love nlp! large large JohnFalse | score=0
+====================
+ "level". leveldeed | score=0
+====================
+"http://www.google.com tom@gmail.com" Output: tpn@hfmhbo.nf iuuq://xxx.hpphmf.dpn | score=0
+====================
+output after these operations "NLP interesting". I1 1l1o1v1e1 1N1L1P1 | score=0
+====================
+ "I Am a NLP interesting" I Am a Nlper. YOGA | score=0
+====================
+final output "NLP interesting". 3False | score=0
+====================
+"1982/03". The final output "NLP insteresting" because the title_case function only capitalizes the first letter of the first word and the rest of the string remains unchanged. T H E N L P I S C O O L 1 9 8 2 / 0 3[1 9 8 2 0 3] | score=0
+====================
+There are 8 correct answers 
+ [for coursera:] 0 can not select all correct options
+ Total: 90 questions.
+{'exact_match': 8.8889, 'num_predicted': 90, 'mean_prediction_length_characters': 27.7556, 'LEval_score': 8.8889, 'display_keys': ['exact_match'], 'display': [8.8889]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/legal_contract_qa.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/legal_contract_qa.pred.jsonl, there are 154 samples
+begin evaluating: f1
+{'f1': 30.3396, 'num_predicted': 130, 'mean_prediction_length_characters': 348.1923, 'LEval_score': 30.3396, 'display_keys': ['f1'], 'display': [30.3396]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/meeting_summ.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/meeting_summ.pred.jsonl, there are 177 samples
+begin evaluating: rouge
+{'rouge/rouge1': 30.1612, 'rouge/rouge2': 6.9538, 'rouge/rougeL': 19.7103, 'rouge/rougeLsum': 26.0469, 'rouge/geometric_mean': 16.0493, 'num_predicted': 156, 'mean_prediction_length_characters': 441.1538, 'LEval_score': 16.0493, 'display_keys': ['rouge/rouge1', 'rouge/rouge2', 'rouge/rougeL'], 'display': [30.1612, 6.9538, 19.7103]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/narrative_qa.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/narrative_qa.pred.jsonl, there are 214 samples
+begin evaluating: f1
+{'f1': 17.5949, 'num_predicted': 182, 'mean_prediction_length_characters': 46.2912, 'LEval_score': 17.5949, 'display_keys': ['f1'], 'display': [17.5949]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/natural_question.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/natural_question.pred.jsonl, there are 109 samples
+begin evaluating: f1
+{'f1': 59.1404, 'num_predicted': 104, 'mean_prediction_length_characters': 17.4519, 'LEval_score': 59.1404, 'display_keys': ['f1'], 'display': [59.1404]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/review_summ.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-vanilla/review_summ.pred.jsonl, there are 144 samples
+begin evaluating: rouge
+{'rouge/rouge1': 29.4729, 'rouge/rouge2': 5.6567, 'rouge/rougeL': 18.3115, 'rouge/rougeLsum': 27.0407, 'rouge/geometric_mean': 14.5067, 'num_predicted': 120, 'mean_prediction_length_characters': 630.6, 'LEval_score': 14.5067, 'display_keys': ['rouge/rouge1', 'rouge/rouge2', 'rouge/rougeL'], 'display': [29.4729, 5.6567, 18.3115]}

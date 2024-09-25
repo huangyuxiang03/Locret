@@ -1,0 +1,4 @@
+sir_llm.egg-info/PKG-INFO
+sir_llm.egg-info/SOURCES.txt
+sir_llm.egg-info/dependency_links.txt
+sir_llm.egg-info/top_level.txt

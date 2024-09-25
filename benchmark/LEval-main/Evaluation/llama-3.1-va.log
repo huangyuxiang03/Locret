@@ -1,0 +1,207 @@
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/exam_eval/Llama-3.1-8B-Instruct-vanilla/codeU.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/exam_eval/Llama-3.1-8B-Instruct-vanilla/codeU.pred.jsonl, there are 90 samples
+begin evaluating: exam
+final answer : [5 9] [6 15] | score=0
+====================
+15]. The final answer [6 15]. [5 7 9] | score=0
+====================
+ 3. 3 | score=1
+====================
+ `[0 0 0]`. The final [0 0 0] | score=1
+====================
+ the array `[0 3 1 2]` [0 0 0 0] | score=0
+====================
+The final answer : [1 3] [[1 3][2 4]] | score=0
+====================
+ `[[3 4][4 4][4 6]]`. [[1 2][3 4][4 4]] | score=0
+====================
+`None` as the arguments 5 | score=0
+====================
+21. The function `asarray(a 2 | score=1
+====================
+ an array with all elements equal to `3`. The [[1 2 3][4 5 6][7 8 9]] | score=0
+====================
+`operation1(a)`. The final answer : [1 2 3  [0 2 1 4 5 3] | score=0
+====================
+final answer : [1 3 8] [2 1 3] | score=0
+====================
+The final answer [3 2 8]. [1 3 9] | score=0
+====================
+element 1. The final answer 1. [1 5 45] | score=0
+====================
+ `c` which 0. [0 0 1 2 4 6] | score=0
+====================
+ `[5 7 8 4 | score=0
+====================
+ : [1 3 6 10 16] [2 0 4 1 3] | score=0
+====================
+ `[1 2 3]`. [1 3 6] | score=0
+====================
+ 0. [1 1 2 3 4 5 5 6 9]  | score=0
+====================
+The final output the 1D array [1 2  [1 4 2 4 3 4] | score=0
+====================
+ `1`. 2 | score=0
+====================
+ [1 2 6 0 | score=0
+====================
+ an array with 10 elements where each element the corresponding element of [1 2 3 4 5 1 2 3 4 5] | score=0
+====================
+final output `c` which `3`. The final answer 3. [1 1 2 2 3 3] | score=0
+====================
+ [5 7 2 0 | score=0
+====================
+ the sorted array 4 | score=0
+====================
+final output : 0 6 | score=0
+====================
+ the product of 48 | score=0
+====================
+ the product of 4 | score=0
+====================
+the maximum value 3. 5 | score=0
+====================
+2 7 2 8 3 7 3 8] [[7 1 8][2 9 3]] | score=0
+====================
+`operation8(g)` called with `g 4 | score=0
+====================
+elements `3*2*1 = 6`. 0 | score=0
+====================
+output [10 20 40 50 60]. [1 2 3] | score=0
+====================
+ a 1D array with shape (1) containing the value 5. [1 1 1 2 2 2 3 3 3 4 4 4 5 5 5] | score=0
+====================
+ an error message. 411936 | score=0
+====================
+containing the elements 2 and  [1 6 15] | score=0
+====================
+elements the indices of the elements and the indices of the elements. [0 1 2 3 4 5 6 7 8] | score=0
+====================
+`operation14(n)`. The final answer : 15 [1 2 3] | score=0
+====================
+  3 | score=0
+====================
+ will depend on the implementation of the [1 3 5 7 9] | score=0
+====================
+and values `[0 1 2 3]`. [[0 0][0 0]] | score=0
+====================
+`asarray_chkfinite` `asanyarray_chkfinite` `ascontiguousarray_chkfinite` `asfortranarray_chkfinite` `asanyarray_chkfinite` `asarray_chkfinite` `asany [1 2 30 40] | score=0
+====================
+ an array with shape `(3 3)` and values [1 2 3 4 5 6] | score=0
+====================
+ : ``` [1 14 | score=0
+====================
+The final answer [[0 0 0][0 1 2][0 2 4]]. [[0 0 0][0 1 2][0 2 4]] | score=1
+====================
+False][False True False][False False True]]) [1 2] | score=0
+====================
+ : True [[0 1][0 2][1 1]] | score=0
+====================
+ : [[0 2 4][1 3]] [4 5 1 2 3] | score=0
+====================
+The final answer [3.5]. [3.5] | score=1
+====================
+with `a1 = [1 2 0]` `b2 = [2 7 17 19 15] | score=0
+====================
+ `[[0][1][2]]`. 32 | score=0
+====================
+ : [3 -6 3] [-3 6 -3] | score=0
+====================
+: [[-4 0 4]] [[4]] | score=0
+====================
+ . -2 | score=0
+====================
+ an error message indicating that [32 64 96] | score=0
+====================
+ an error message [[1][2]] | score=0
+====================
+exact output. However we [[0][1][2]] | score=0
+====================
+a function over each coordinate. 20. The `scalar` function [[ 0 0 0 0 14]] | score=0
+====================
+ `25`. [-1 -1 -1 -1 -1] | score=0
+====================
+ . Now lets analyze the [[1 0 0]] | score=0
+====================
+function used to create [[5][10]] | score=0
+====================
+`j`. The final answer : 15 [90 99 90] | score=0
+====================
+ the last function True | score=0
+====================
+arrays are equal and `False` otherwe. The final output `True`. [[-7 14 -7][-7 14 -7][-7 14 -7]] | score=0
+====================
+function. The final answer : NLP insteresting the _n_l_p is c_ool1 | score=0
+====================
+masked email address "n***e@gmail.com". *********.com | score=0
+====================
+..- -.-. -- ..- -.-. -.-. -.. --- ..- -.-. -.-. -.-." -. .-.. .--. .. ... -.-. --- --- .-.. | score=1
+====================
+final answer : {"i": 1 "love": 1 "nlp": 1} {"i": 1 "love": 1 "nlp": 1} | score=1
+====================
+ "dlroW!". !dlroW | score=0
+====================
+final answer : NlP Is iNtErEsSiNg. NlP Is InTeReStInG. | score=0
+====================
+The final output "NLP insteresting. ****" i aam_a_n_l_per. *** | score=0
+====================
+ "NLP ". The NLP | score=1
+====================
+ the JSON string representation of the word frequencies {"nlp": 1 "a": 1 "cool": 1} | score=0
+====================
+final encrypted string "NLP insteresting". :$5n l9=l3!#< | score=0
+====================
+ the mapping string which "N -> 1 P -> 1 -> 1 i -> 1 s -> 1 -> 1 n -> 1 t -> 1 e -> 1 r -> 1 e -> 1 s -> P: 1 -> : 2 -> t: 2 -> e: 2 -> r: 1 -> .: 1 -> N: 1 -> g: 1 -> s: 2 -> i: 3 -> n: 2 -> L: 1 | score=0
+====================
+NLP insteresting a3b4 2032-12-01" 2032-12-01aaabbbb | score=0
+====================
+the estimated number of syllables in the word "insteresting". NLP is interesting ! xxx-xxx-1100 T*m@gmail.Com7 | score=0
+====================
+output of the function the processed string. 3_PLN_POS0 2_sI_POS1 12_DOTgnItsErEtnI_POS2 6_tOnnAc_POS3 | score=0
+====================
+string. 23. The function `string_normalizer` normalizes a string by Character: L Type: consonant Frequency: 15 | score=0
+====================
+. The final answer Interesting.[1]1 | score=0
+====================
+returns an error message. 8. The final output the last function call which "False || Error: The provided input not a string." False{"F": || 1 || "a": || 1 || "l": || 1 || "s": || 1 || "e": || 1} | score=0
+====================
+output reverse_words_in_string() which "nlp! love I". i EVOL !PLN | score=0
+====================
+output contains_substring() which "True". The final answer : True I love nlp! large large JohnFalse | score=0
+====================
+final answer : leveldeed leveldeed | score=1
+====================
+ "http://www.gpgle.com tom@glamil.com" iuuq://xxx.hpphmf.dpn | score=0
+====================
+The final answer : NLP insteresting I1 1l1o1v1e1 1N1L1P1 | score=0
+====================
+keywords. 8. The final output the highlighted string. I Am a Nlper. YOGA | score=0
+====================
+ "mFalse". 3False | score=0
+====================
+final output the concatenation of the results of steps 6 and 7 and 8 which "NLP insteresting 1982/03 1982". The final answer : NLP insteresting 1982/03 1982 T H E N L P I S C O O L 1 9 8 2 / 0 3[1 9 8 2 0 3] | score=0
+====================
+There are 9 correct answers 
+ [for coursera:] 0 can not select all correct options
+ Total: 90 questions.
+{'exact_match': 10.0, 'num_predicted': 90, 'mean_prediction_length_characters': 32.9889, 'LEval_score': 10.0, 'display_keys': ['exact_match'], 'display': [10.0]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/legal_contract_qa.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/legal_contract_qa.pred.jsonl, there are 154 samples
+begin evaluating: f1
+{'f1': 38.9127, 'num_predicted': 130, 'mean_prediction_length_characters': 475.0077, 'LEval_score': 38.9127, 'display_keys': ['f1'], 'display': [38.9127]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/meeting_summ.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/meeting_summ.pred.jsonl, there are 177 samples
+begin evaluating: rouge
+{'rouge/rouge1': 33.7078, 'rouge/rouge2': 8.8247, 'rouge/rougeL': 22.1929, 'rouge/rougeLsum': 28.9781, 'rouge/geometric_mean': 18.7592, 'num_predicted': 156, 'mean_prediction_length_characters': 402.6795, 'LEval_score': 18.7592, 'display_keys': ['rouge/rouge1', 'rouge/rouge2', 'rouge/rougeL'], 'display': [33.7078, 8.8247, 22.1929]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/narrative_qa.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/narrative_qa.pred.jsonl, there are 214 samples
+begin evaluating: f1
+{'f1': 23.1127, 'num_predicted': 182, 'mean_prediction_length_characters': 57.7527, 'LEval_score': 23.1127, 'display_keys': ['f1'], 'display': [23.1127]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/natural_question.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/natural_question.pred.jsonl, there are 109 samples
+begin evaluating: f1
+{'f1': 66.8351, 'num_predicted': 104, 'mean_prediction_length_characters': 24.9519, 'LEval_score': 66.8351, 'display_keys': ['f1'], 'display': [66.8351]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/review_summ.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Llama-3.1-8B-Instruct-vanilla/review_summ.pred.jsonl, there are 144 samples
+begin evaluating: rouge
+{'rouge/rouge1': 32.6059, 'rouge/rouge2': 7.2134, 'rouge/rougeL': 20.359, 'rouge/rougeLsum': 30.0629, 'rouge/geometric_mean': 16.8551, 'num_predicted': 120, 'mean_prediction_length_characters': 599.625, 'LEval_score': 16.8551, 'display_keys': ['rouge/rouge1', 'rouge/rouge2', 'rouge/rougeL'], 'display': [32.6059, 7.2134, 20.359]}

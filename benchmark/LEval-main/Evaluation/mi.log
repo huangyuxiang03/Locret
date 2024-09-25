@@ -1,0 +1,475 @@
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/exam_eval/Phi3-mini-128K-mi/codeU.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/exam_eval/Phi3-mini-128K-mi/codeU.pred.jsonl, there are 90 samples
+begin evaluating: exam
+ : ``` 21 ``` [6 15] | score=0
+====================
+ : ``` [20] ``` <|endoftext|> [5 7 9] | score=0
+====================
+ : ``` 3 3 | score=1
+====================
+ . <|endoftext|> [0 0 0] | score=0
+====================
+ `[0 1 2 2]`. <|endoftext|> [0 0 0 0] | score=0
+====================
+`f`. Therefore the output `2`. <|endoftext|> [[1 3][2 4]] | score=0
+====================
+ `[[1][4]]`.<|end|> [[1 2][3 4][4 4]] | score=0
+====================
+ : ``` True 5 | score=0
+====================
+ : ``` (3 2 | score=0
+====================
+ `[2 1 0 5 4 6 7 8 9]`.<|end|> [[1 2 3][4 5 6][7 8 9]] | score=0
+====================
+ an empty tuple: `()`. <|endoftext|> [0 2 1 4 5 3] | score=0
+====================
+ `[5 6]`.<|end|> [2 1 3] | score=0
+====================
+ `[5 8 9]`.<|end|> [1 3 9] | score=0
+====================
+array resulting in an empty array.<|end|> [1 5 45] | score=0
+====================
+ : ``` [0 1 2] ```<|end|> [0 0 1 2 4 6] | score=0
+====================
+ [1 5 3 4 | score=0
+====================
+ `c = [144]`. <|endoftext|> [2 0 4 1 3] | score=0
+====================
+ 3. <|endoftext|> [1 3 6] | score=0
+====================
+ not explicitly mentioned in the code. To find the output we [1 1 2 3 4 5 5 6 9]  | score=0
+====================
+first element of the repeated array which 1. <|endoftext|> [1 4 2 4 3 4] | score=0
+====================
+ `4`. <|endoftext|> 2 | score=0
+====================
+ cannot be determined 0 | score=0
+====================
+``` array([1. 2. 3. 4. 5. 5. 5. 5. 5. 5. 5.]) ```<|end|> [1 2 3 4 5 1 2 3 4 5] | score=0
+====================
+ : ``` [1 2 3] ``` Th because [1 1 2 2 3 3] | score=0
+====================
+ [7 8 10].<|end|> 0 | score=1
+====================
+ an empty tuple. 4 | score=0
+====================
+ f = 3. 6 | score=0
+====================
+True True True] ```<|end|> 48 | score=0
+====================
+operation5 not defined ```<|end|> 4 | score=0
+====================
+ f = 3. 5 | score=0
+====================
+final output : [[3 4 2][6 7 3]]<|end|> [[7 1 8][2 9 3]] | score=0
+====================
+2 3 4 5]<|end|> 4 | score=1
+====================
+ a 1D array 0 | score=0
+====================
+and all elements equal to 180.<|end|> [1 2 3] | score=0
+====================
+ [9 12].<|end|> [1 1 1 2 2 2 3 3 3 4 4 4 5 5 5] | score=0
+====================
+4 5 6 7].<|end|> 411936 | score=0
+====================
+. <|endoftext|> [1 6 15] | score=0
+====================
+output : ``` [[10 20 30][40 50 60][70 80 90]] ``` <|endoftext|> [0 1 2 3 4 5 6 7 8] | score=0
+====================
+it . i = operation8(h)  [1 2 3] | score=0
+====================
+ 3.<|end|> 3 | score=1
+====================
+ an array resulting from `operation1(1 10 2)`. [1 3 5 7 9] | score=0
+====================
+ : ``` [[1 2][1 2]] [[0 0][0 0]] | score=0
+====================
+ `[0 0 0 40]`. <|endoftext|> [1 2 30 40] | score=0
+====================
+ `[1 1 1 2 2 2]`. Note that [1 2 3 4 5 6] | score=0
+====================
+ `[5 7]`.<|end|> 14 | score=0
+====================
+: ``` [[0 0 0][0 1 2][0 2 4]] ```<|end|> [[0 0 0][0 1 2][0 2 4]] | score=1
+====================
+ ? The final output [1 2] | score=0
+====================
+ : ``` [[0 0 0][0 0 [[0 1][0 2][1 1]] | score=0
+====================
+ : ``` array([[0 0 0 0 0][0 [4 5 1 2 3] | score=0
+====================
+ `1.5`. <|endoftext|> [3.5] | score=0
+====================
+ `[3 5 8]`.<|end|> [2 7 17 19 15] | score=0
+====================
+ : ``` [[4 32 | score=0
+====================
+ : c = [6 -3 [-3 6 -3] | score=0
+====================
+the given information. <|endoftext|> [[4]] | score=0
+====================
+b)` returns an array.<|end|> -2 | score=0
+====================
+. If not the code will [32 64 96] | score=0
+====================
+ cannot be determined [[1][2]] | score=0
+====================
+ lets go through [[0][1][2]] | score=0
+====================
+the application of `operation6` to `b` and `d`. <|endoftext|> [[ 0 0 0 0 14]] | score=0
+====================
+ : ``` array([[-3 6 -3][ 3 -6 [-1 -1 -1 -1 -1] | score=0
+====================
+ `operation6`. Lets break down the [[1 0 0]] | score=0
+====================
+ [10 14]. <|endoftext|> [[5][10]] | score=0
+====================
+ [1 7 1 1 1 [90 99 90] | score=0
+====================
+ a tuple of True | score=0
+====================
+final output the array [7 8 9 10 11]. <|end|> [[-7 14 -7][-7 14 -7][-7 14 -7]] | score=0
+====================
+ "2". <|endoftext|> the _n_l_p is c_ool1 | score=0
+====================
+The final output "tomg****".<|end|> *********.com | score=0
+====================
+t - 33. The Morse code for e . 34. The Mor -. .-.. .--. .. ... -.-. --- --- .-.. | score=0
+====================
+: ```json {"nlp": 1 "love": 1 "i": 1} ```<|end|> {"i": 1 "love": 1 "nlp": 1} | score=0
+====================
+final output "True". <|endoftext|> !dlroW | score=0
+====================
+The final output "Nlp Is Interesting."<|end|> NlP Is InTeReStInG. | score=1
+====================
+"I aamANLPer. password" Output: i_aamnlper.*** <|endoftext|> i aam_a_n_l_per. *** | score=0
+====================
+ "NLP Is Interesting".<|end|> NLP | score=1
+====================
+ `{"nlp": 1 "a": 1 "": 0 "cool": 1}`.<|end|> {"nlp": 1 "a": 1 "cool": 1} | score=0
+====================
+ "NLP insteresting".<|end|> :$5n l9=l3!#< | score=0
+====================
+ "5_LPN si 1_si 10_gnitnetnesi".<|end|> P: 1 -> : 2 -> t: 2 -> e: 2 -> r: 1 -> .: 1 -> N: 1 -> g: 1 -> s: 2 -> i: 3 -> n: 2 -> L: 1 | score=0
+====================
+NLP interesting aaabb """<|end|> 2032-12-01aaabbbb | score=0
+====================
+ "NLP interesting ! 18230221100 t*****@gmail.com11".<|end|> NLP is interesting ! xxx-xxx-1100 T*m@gmail.Com7 | score=0
+====================
+ "NLP_POS0 I_POS1 I_POS2 interesting_POS3 cannot_POS3".<|end|> 3_PLN_POS0 2_sI_POS1 12_DOTgnItsErEtnI_POS2 6_tOnnAc_POS3 | score=0
+====================
+ "1 N 1" <|endoftext|> Character: L Type: consonant Frequency: 15 | score=0
+====================
+output "NLP Interesting. 11".<|end|> Interesting.[1]1 | score=0
+====================
+title case but since "you" in the exceptions lt it remains in lowercase resulting in "Your you!" The final output "Your you!"<|end|> False{"F": || 1 || "a": || 1 || "l": || 1 || "s": || 1 || "e": || 1} | score=0
+====================
+The final output "nlp love i".<|end|> i EVOL !PLN | score=0
+====================
+The final output "Hello name large large" """ <|end|> I love nlp! large large JohnFalse | score=0
+====================
+The final output "level".<|end|> leveldeed | score=0
+====================
+tom@gmail.com Output: tpn@hjmf.npc <|endoftext|> iuuq://xxx.hpphmf.dpn | score=0
+====================
+ "I love NLP".<|end|> I1 1l1o1v1e1 1N1L1P1 | score=0
+====================
+5. The final output "NLP insteresting" """ <|endoftext|> I Am a Nlper. YOGA | score=0
+====================
+ "qsxuFalse" <|endoftext|> 3False | score=0
+====================
+case using the `to_title_case` function. 5. Finally we print the concatenated string with the extracted numbers dates and title-cased string. The final output : "NLP interesting 1982/03"<|end|> T H E N L P I S C O O L 1 9 8 2 / 0 3[1 9 8 2 0 3] | score=0
+====================
+There are 7 correct answers 
+ [for coursera:] 0 can not select all correct options
+ Total: 90 questions.
+{'exact_match': 7.7778, 'num_predicted': 90, 'mean_prediction_length_characters': 31.7222, 'LEval_score': 7.7778, 'display_keys': ['exact_match'], 'display': [7.7778]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/exam_eval/Phi3-mini-128K-mi/sci_fi.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/exam_eval/Phi3-mini-128K-mi/sci_fi.pred.jsonl, there are 64 samples
+begin evaluating: exam
+true true | score=1
+====================
+false true | score=0
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false true | score=0
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+false true | score=0
+====================
+true true | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+false true | score=0
+====================
+true true | score=1
+====================
+true true | score=1
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false true | score=0
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true true | score=1
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false true | score=0
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+There are 50 correct answers 
+ [for coursera:] 0 can not select all correct options
+ Total: 64 questions.
+false false | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false true | score=0
+====================
+false false | score=1
+====================
+false true | score=0
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true false | score=0
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+false false | score=1
+====================
+false true | score=0
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true false | score=0
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true false | score=0
+====================
+false true | score=0
+====================
+true false | score=0
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+false true | score=0
+====================
+false true | score=0
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true false | score=0
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+false false | score=1
+====================
+true true | score=1
+====================
+true true | score=1
+====================
+true false | score=0
+====================
+true true | score=1
+====================
+There are 46 correct answers 
+ [for coursera:] 0 can not select all correct options
+ Total: 64 questions.
+loyalty score: {'exact_match': 78.125, 'num_predicted': 64, 'mean_prediction_length_characters': 4.4531, 'LEval_score': 78.125, 'display_keys': ['exact_match'], 'display': [78.125]}
+fact score: {'exact_match': 71.875, 'num_predicted': 64, 'mean_prediction_length_characters': 4.5625, 'LEval_score': 71.875, 'display_keys': ['exact_match'], 'display': [71.875]}
+average score of fact and loyalty: 75.0
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/legal_contract_qa.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/legal_contract_qa.pred.jsonl, there are 154 samples
+begin evaluating: f1
+{'f1': 26.6296, 'num_predicted': 130, 'mean_prediction_length_characters': 373.5923, 'LEval_score': 26.6296, 'display_keys': ['f1'], 'display': [26.6296]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/meeting_summ.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/meeting_summ.pred.jsonl, there are 177 samples
+begin evaluating: rouge
+{'rouge/rouge1': 29.9318, 'rouge/rouge2': 6.8233, 'rouge/rougeL': 19.2415, 'rouge/rougeLsum': 25.7529, 'rouge/geometric_mean': 15.7805, 'num_predicted': 156, 'mean_prediction_length_characters': 464.1282, 'LEval_score': 15.7805, 'display_keys': ['rouge/rouge1', 'rouge/rouge2', 'rouge/rougeL'], 'display': [29.9318, 6.8233, 19.2415]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/narrative_qa.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/narrative_qa.pred.jsonl, there are 121 samples
+begin evaluating: f1
+{'f1': 15.9554, 'num_predicted': 121, 'mean_prediction_length_characters': 50.8678, 'LEval_score': 15.9554, 'display_keys': ['f1'], 'display': [15.9554]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/natural_question.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/natural_question.pred.jsonl, there are 109 samples
+begin evaluating: f1
+{'f1': 25.2081, 'num_predicted': 104, 'mean_prediction_length_characters': 23.4135, 'LEval_score': 25.2081, 'display_keys': ['f1'], 'display': [25.2081]}
+/home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/review_summ.pred.jsonl
+loading from /home/test/test01/hyx/LEval-main/Baselines/Predictions/ngram_eval/Phi3-mini-128K-mi/review_summ.pred.jsonl, there are 144 samples
+begin evaluating: rouge
+{'rouge/rouge1': 30.1095, 'rouge/rouge2': 5.9478, 'rouge/rougeL': 18.3524, 'rouge/rougeLsum': 27.4921, 'rouge/geometric_mean': 14.8679, 'num_predicted': 120, 'mean_prediction_length_characters': 650.425, 'LEval_score': 14.8679, 'display_keys': ['rouge/rouge1', 'rouge/rouge2', 'rouge/rougeL'], 'display': [30.1095, 5.9478, 18.3524]}
