@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="figures/logo.png" height="34px" align="top"/>Locret</h1>
+<h1><img src="figures/logo.png" height="34px" align="top"/>Locret: Accelerating Long-Context LLM Inference with Retaining Heads</h1>
 
 <p align="center">
 <a href="TODO" target="_blank">Blog</a> |
