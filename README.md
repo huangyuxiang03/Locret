@@ -14,12 +14,13 @@
 
 Locret is a light-weight training-based KV cache eviction method, which achieves **20x** and **8x** KV cache compression ratio for Phi-3-mini-128K and Llama-3.1-8B-instruct, enabling **128K+** long-context inference on **a single Nvidia 4090 GPU**.
 
----
+##
 <div align="center">
 <h4>This project was made possible thanks to a collaboration with <img src="figures/univ.png" height="60px" align="center"/></h4>
 </div>
 
----
+##
+
 
 
 ## Design
