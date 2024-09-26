@@ -85,6 +85,7 @@ For other experiments in our paper, please run the codes in `benchmark/infinite_
 
 ## Develop Roadmap 
 
+- [ ] Add support to Llama-3.2-1B and Llama-3.2-3B
 - [ ] Add support to MiniCPM-2.4B and MiniCPM-1.2B
 - [ ] Add support to Qwen-2.5-1.5B and Qwen-2.5-1.5B
 
