@@ -3,7 +3,7 @@
 <h1><img src="figures/logo.png" height="34px" align="top"/>Locret: Accelerating Long-Context LLM Inference with Retaining Heads</h1>
 
 <p align="center">
-<a href="TODO" target="_blank">Blog</a> |
+<a href="https://huangyuxiang03.github.io/blogs_locret" target="_blank">Blog</a> |
 <a href="TODO" target="_blank">Paper (ArXiV)</a> 
 </a>
  
