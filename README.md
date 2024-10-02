@@ -48,7 +48,7 @@ conda activate locret_env
 pip install -e .
 ```
 
-Official checkpoints of Locret can be downloaded from [hyx21/Locret-phi-3-mini-128K](https://huggingface.co/hyx21/Locret-phi-3-mini-128K) and [hyx21/Locret-llama-3.1-8B-instruct](hyx21/Locret-llama-3.1-8B-instruct).
+Official checkpoints of Locret can be downloaded from [hyx21/Locret-phi-3-mini-128K](https://huggingface.co/hyx21/Locret-phi-3-mini-128K) and [hyx21/Locret-llama-3.1-8B-instruct](https://huggingface.co/hyx21/Locret-llama-3.1-8B-instruct).
 
 Now you are all set!
 
