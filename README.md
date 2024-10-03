@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://huangyuxiang03.github.io/blogs_locret" target="_blank">Blog</a> |
-<a href="TODO" target="_blank">Paper (ArXiV)</a> 
+<a href="https://arxiv.org/abs/2410.01805" target="_blank">Paper (ArXiV)</a> 
 </a>
  
 </p>
@@ -92,13 +92,13 @@ For other experiments in our paper, please run the codes in `benchmark/infinite_
 
 ## Citation
 
-Please cite our [paper](TODO) if you find our work valuable.
+Please cite our [paper](https://arxiv.org/abs/2410.01805) if you find our work valuable.
 
 ```
 @article{huang2024locret,
   title={Locret: Accelerating Long-Context LLM Inference with Retaining Heads},
   author={Yuxiang Huang, Binhang Yuan, Xu Han, Chaojun Xiao, Zhiyuan Liu},
-  journal={arXiv preprint arXiv:TODO},
+  journal={arXiv preprint arXiv:2410.01805},
   year={2024}
 }
 ```
